@@ -1,1 +1,1 @@
-# HTML-Sandbox
+This project is being used for a course that I am taking to learn HTML. I worked with it some in High School but I am looking to learn more techniques and how to build a website from scratch.
