@@ -1,0 +1,33 @@
+#box-1 {
+  background-color: blanchedalmond;
+  width: 55%;
+  border: 3px solid rebeccapurple;
+  border-radius: 10px;
+}
+
+#box-2 {
+  background: #333;
+  color: white;
+  border-top: blue solid 3px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  width: 55%;
+}
+
+#box-3 {
+  /* background-image: url("../../img/space.jpg");
+  background-repeat: no-repeat;
+  background-position: center, center;
+  background-size: cover; */
+  background: url("../../img/space.jpg") no-repeat center/cover;
+  color: orange;
+  height: 150px;
+  width: 600px;
+  border-radius: 5px;
+}
+
+#box-4 {
+  background: url(../../img/hex.png) no-repeat center center;
+  color: rgb(0, 165, 22);
+  background-attachment: fixed;
+}

@@ -1,0 +1,26 @@
+body {
+  background-color: darkgray;
+}
+
+h2 {
+  color: green;
+}
+
+#welcome {
+  background-color: #f4f4f4;
+}
+
+#about {
+  background-color: antiquewhite;
+}
+
+#welcome,
+#about {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 5px;
+}
+
+#welcome p {
+  font-size: 20px;
+}
